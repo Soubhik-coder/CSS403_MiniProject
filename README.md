@@ -1,8 +1,8 @@
 # Library Membership system
 ## Project Details
-* Group: 13
-* Roll Numbers: 61-65
-* Problem Statment: Build a Library Membership System to manage book loans and members.
+* **Group**: 13
+* **Roll Numbers**: 61-65
+* **Problem Statment**: Build a Library Membership System to manage book loans and members.
 
 ## About the Project
 This project implements a Library Membership System using SQL and Denodo as the virtual database.
