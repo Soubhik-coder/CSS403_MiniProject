@@ -46,16 +46,16 @@ We kept our database simple with three main tables:
    
 ## How We Organized Everything
 ```
-CSS403_MiniProject/
-├── Data                      # Contains seed data for database population
+CSS403_MiniProject
+├── Data                     # Contains seed data for database population
 │   ├── Books.sql   
 │   ├── Loans.sql     
 │   └── Members.sql          
-├── Procedures/
+├── Procedures 
 │   └── GetMembrByBookID.sql
-├── Queries/                 # SQL query scripts for application functionality
+├── Queries                  # SQL query scripts for application functionality
 │   └── (All our SQL Scripts)
-├── Tables/                  # DDL scripts for database schema
+├── Tables                   # DDL scripts for database schema
 │   ├── Books.sql
 │   ├── Loans.sql
 │   └── Members.sql
