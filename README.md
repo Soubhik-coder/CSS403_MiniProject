@@ -2,7 +2,18 @@
 ## Project Details
 * **Group**: 13
 * **Roll Numbers**: 61-65
-* **Problem Statment**: Build a Library Membership System to manage book loans and members.
+## Team Members
+
+| Name                  | Roll Number  |
+|-----------------------|--------------|
+| Menuka Hansda         | 23CS8061     |
+| Soubhik Ghosh         | 23CS8062     |
+| Sanket Pathak         | 23CS8063     |
+| Shayantan Biswas      | 23CS8064     |
+| C. Harishwar Reddy    | 23CS8065     |
+
+## **Problem Statment**
+Build a Library Membership System to manage book loans and members.
 
 ## About the Project
 This project implements a Library Membership System using SQL and Denodo as the virtual database.
@@ -47,18 +58,23 @@ We kept our database simple with three main tables:
 ## How We Organized Everything
 ```
 CSS403_MiniProject
-├── Data                     # Contains seed data for database population
-│   ├── Books.sql   
-│   ├── Loans.sql     
-│   └── Members.sql          
-├── Procedures 
-│   └── GetMembrByBookID.sql
-├── Queries                  # SQL query scripts for application functionality
-│   └── (All our SQL Scripts)
-├── Tables                   # DDL scripts for database schema
-│   ├── Books.sql
-│   ├── Loans.sql
-│   └── Members.sql
+├── Report                       
+│   └── Library_Membership_System.docx          
+├── SQL_Scripts 
+│   └── Create_Tables
+│      ├── Books.sql
+│      ├── Loans.sql
+│      └── Members.sql
+│   └──Insert_Data
+│      ├── Books.sql
+│      ├── Loans.sql
+│      └── Members.sql
+│   └── Queries
+│      └── (All our SQL Scripts)
+│   └── Stored_Procedures
+│      └── GetMembrByBookID.sql
+├── Screenshots
+│      └── (All our SQL Outputs)
 └── README.md
 ```
 
