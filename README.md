@@ -57,20 +57,20 @@ We kept our database simple with three main tables:
    
 ## How We Organized Everything
 ```
-CSS403_MiniProject
+Library_Management_System
 ├── Report                       
 │   └── Library_Membership_System.docx          
 ├── SQL_Scripts 
 │   └── Create_Tables
-│      ├── Books.sql
-│      ├── Loans.sql
-│      └── Members.sql
+│   |   ├── Books.sql
+│   |   ├── Loans.sql
+│   |   └── Members.sql
 │   └──Insert_Data
-│      ├── Books.sql
-│      ├── Loans.sql
-│      └── Members.sql
+│   |   ├── Books.sql
+│   |   ├── Loans.sql
+│   |   └── Members.sql
 │   └── Queries
-│      └── (All our SQL Scripts)
+│   |   └── (All our SQL Scripts)
 │   └── Stored_Procedures
 │      └── GetMembrByBookID.sql
 ├── Screenshots
