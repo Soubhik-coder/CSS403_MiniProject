@@ -58,7 +58,7 @@ We kept our database simple with three main tables:
 ## How We Organized Everything
 ```
 CSS403_MiniProject
-├── Report                     # Contains seed data for database population    
+├── Report                       
 │   └── Library_Membership_System.docx          
 ├── SQL_Scripts 
 │   └── Create_Tables
